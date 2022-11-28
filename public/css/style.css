@@ -1,0 +1,37 @@
+body {
+    background-color: #5d93fd;
+}
+
+.divUn {
+    background-color: #5d93fd;
+    border: 2px solid black;
+    height: 600px;
+}
+
+.divDeux {
+    background-color: #4976c9;
+    width: 25%;
+    height: 25%;
+    border: 3px solid black;
+}
+
+.divTrois {
+    background-color: #365897;
+    width: 50%;
+    height: 25%;
+    border: 3px solid black;
+}
+
+.divQuatre {
+    background-color: #243b64;
+    width: 75%;
+    height: 25%;
+    border: 3px solid black;
+}
+
+.divCinq {
+    background-color: #121d31;
+    width: 100%;
+    height: 25%;
+    border: 3px solid black;
+}
